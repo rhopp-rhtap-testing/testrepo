@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:latest
+FROM quay.io/fedora/fedora:latest
 
 COPY entrypoint.sh /
 
